@@ -1,0 +1,97 @@
+- hess's law
+	- reactants have positive heat energy
+	- products have negative heat energy
+
+- bonding strength & type <strong>(ordered)</strong>
+	- ion-ion bonding
+	- ion-dipole bonding
+		- a dipole is a compound where two atoms with opposite charges are bonded
+			- e.g. HCl where H$^{1+}$ and Cl$^{1-}$
+	- hydrogen bonding
+		- a special dipole-dipole interaction where an H is bonded to a highly electronegative atom like N, O, F, etc.
+	- dipole-dipole bonding
+		- a bond between two dipole molecules
+	- ion-induced dipole
+		- when an ion approaches a NON-DIPOLE molecule, but it's influence makes the electrons respond in a certain way and it becomes a dipole molecule
+	- dipole-induced dipole
+		- attraction between an existing polar molecule and a molecule that becomes dipole based on the other molecule's influence
+	 - london dispersion
+		 - when two non-dipole molecules are temporarily attracted to each other.
+		 - if the electronegativity difference between the two molecules is <.4, it is london dispersion
+
+- <strong>inter</strong>molecular vs. <strong>intra</strong>molecular
+	- <strong>inter</strong>molecular is between two molecules
+	- <strong>intra</strong>molecular is the bonds inside the atom
+
+- the impact of bond strength on molecular properties
+	- stronger <strong>inter</strong>molecular forces create higher melting/boiling points, higher viscosity, etc. 
+	- weaker <strong>intra</strong>molecular forces create higher melting/boiling points, higher viscosity, etc.
+
+- what determines whether a molecule is ionic/covalent?
+	- the electronegativity of the compound determines if it is ionic or covalent
+	- ionic >= 1.7
+	- covalent:
+		- highy polar: 1.0-1.7
+		- moderately polar: .4-1.0
+		- non-polar: <.4
+
+- bonding strength in relation to the periodic table
+	- electronegativity goes up as the element goes up and to the right
+	- metals-nonmetals bond ionically; higher <strong>inter</strong>molecular forces
+	- nonmetals-nonmetals bond covalently; lower <strong>inter</strong>molecular forces
+
+- identifying the polarity of a bond
+	- ionic
+		- always polar
+		- DISSOLVES in water
+		- metal-nonmetal
+		- e$^-$ transfer
+	- covalent
+		- sometimes polar or nonpolar
+		- nonmetal-nonmetal
+		- e$^-$ are shared
+
+- VSEPR
+	- linear
+		- 180 degree
+		- 2 bonding regions, 0 lone pairs
+			- linear molecular geometry
+		- 1 bonding region, 1 lone pair
+			- no electron region geometry	
+			- linear molecular geometry 
+	- trigonal planar
+		- 120 degree
+		- 3 regions, 0 lone pairs
+			- trigonal planar molecular geometry
+		- 2 regions, 1 lone pair
+			- bent molecular geometry
+		- 1 bonding region, 2 lone pair
+			- linear molecular geometry	
+	- tetrahedral
+		- 109.5 degree
+		- 4 regions, 0 lone pairs
+			- tetrahedral molecular geometry
+		- 3 regions, 1 lone pair
+			- trigonal pyramidal molecular geometry
+		- 2 regions, 2 lone pair
+			- bent
+		- 1 region, 3 lone pair
+			- linear
+	- trigonal bipyramidal
+		- 120 degree and 90 degree from top atom to side atom
+		- 5 regions, 0 lone pairs
+			- trigonal bipyramidal
+		- 4 regions, 1 lone pair
+			- see-saw
+		- 3 regions, 2 lone pair
+			- T-shaped
+		- 2 regions, 3 lone pair
+			- linear
+	- octahedral
+		- 90 degree
+		- 6 regions, 0 lone pairs
+			- octahedral
+		- 5 regions, 1 lone pairs
+			- square pyramidal
+		- 4 regions, 2 lone pairs
+			- square planar

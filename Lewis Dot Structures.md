@@ -15,3 +15,6 @@
 		- V: # of valance electrons (count the number of elements over on the periodic table from the left of that row)
 		- A: # of unshared electrons + bonds to that atom (also accounts for incoming/outgoing electrons if ionic)
 		- C: V - A 
+  - as close to 0 as possible is the ideal formal charge
+    - if both negative, higher electronegativity is ideal
+    - opposite with positive (TODO: double check)
